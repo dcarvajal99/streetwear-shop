@@ -17,7 +17,7 @@ function App() {
           <NavigationBar />
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/streetwear/" element={<Home />} />
+            <Route path="/streetwear-shop/" element={<Home />} />
             <Route path="/producto/:id" element={<DetalleProducto />} />
             <Route path="/cart" element={<Cart />} />
             <Route path="*" element={<NotFound />} /> */
