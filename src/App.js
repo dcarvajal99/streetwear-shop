@@ -14,7 +14,7 @@ function App() {
     <div className="App contenedor bg-image opacity-80">
       <BrowserRouter >
         <ContextProvider>
-          <NavigationBar />
+          <NavigationBar  basename="/streetwear-shop"/>
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/streetwear-shop/" element={<Home />} />

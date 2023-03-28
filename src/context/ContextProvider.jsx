@@ -17,8 +17,8 @@ const ContextProvider = ({ children }) => {
     const [totalCarrito, setTotalCarrito] = useState(0);
 
     const consultarinfo = async () => {
-        const endpoint = "/public/productos.json";
-        const response = await fetch(endpoint)
+        const endpoint = "/productos.json";
+        const response = await fetch(process.env.PUBLIC_URL + endpoint)
         await response.json().then((data) => {
             setProductos(data.productos);
 
