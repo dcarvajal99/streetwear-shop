@@ -1,0 +1,264 @@
+{
+    "productos": [
+        {
+            "id": "QWERTY001",
+            "nombre": "Air Jordan 1 Retro High OG",
+            "descripcion": "Las Air Jordan 1 Retro High OG presentan un diseño icónico y están confeccionadas con materiales de primera calidad para ofrecer un estilo y una comodidad inigualables.",
+            "tallas":[{
+                "talla": "US 7.5",
+                "stock": 1
+            }
+                
+            ],
+            "foto": "/src/img-json/1.jpg",
+            "precio": 169990
+        },
+        {
+            "id": "QWERTY002",
+            "nombre": "Air Jordan 5 Retro",
+            "descripcion": "Las Air Jordan 5 Retro cuentan con detalles de diseño exclusivos y están confeccionadas con materiales de alta calidad para ofrecer una comodidad duradera.",
+            "tallas":[{
+                "talla": "US 8",
+                "stock": 1
+            }
+                
+            ],
+            "foto": "/src/img-json/2.jpg",
+            "precio": 219990
+        },
+        {
+            "id": "QWERTY003",
+            "nombre": "Air Jordan 11 Retro",
+            "descripcion": "Las Air Jordan 11 Retro son unas zapatillas de edición limitada que combinan una parte superior de piel y tela con una entresuela de Phylon para ofrecer una comodidad y un estilo inigualables.",
+            "tallas":[{
+                "talla": "US 9.5",
+                "stock": 1
+            }
+                
+            ],
+            "foto": "/src/img-json/3.jpg",
+            "precio": 249990
+        },
+        {
+            "id": "QWERTY004",
+            "nombre": "Air Jordan 13 Retro",
+            "descripcion": "Las Air Jordan 13 Retro son unas zapatillas con un diseño exclusivo y están confeccionadas con materiales de alta calidad para ofrecer una comodidad duradera.",
+            "tallas":[{
+                "talla": "US 8.5",
+                "stock": 1
+            }
+                
+            ],
+            "foto": "/src/img-json/4.jpg",
+            "precio": 199990
+        },
+        {
+            "id": "QWERTY005",
+            "nombre": "Air Jordan 35",
+            "descripcion": "Las Air Jordan 35 cuentan con una parte superior de tela y piel sintética y una suela de goma resistente para ofrecer una comodidad y un estilo duraderos.",
+            "tallas":[{
+                "talla": "US 5.5",
+                "stock": 1
+            }
+                
+            ],
+            "foto": "/src/img-json/5.jpg",
+            "precio": 199990
+        },
+        {
+            "id": "QWERTY006",
+            "nombre": "Air Jordan 4 Retro",
+            "descripcion": "Las Air Jordan 4 Retro son unas zapatillas con un diseño icónico y están confeccionadas con materiales de alta calidad para ofrecer una comodidad duradera.",
+            "tallas":[{
+                "talla": "US 7.5",
+                "stock": 1
+            }
+                
+            ],
+            "foto": "/src/img-json/6.jpg",
+            "precio": 199990
+        },
+        {
+            "id": "QWERTY007",
+            "nombre": "Air Jordan 6 Retro",
+            "descripcion": "Las Air Jordan 6 Retro cuentan con un diseño clásico y están confeccionadas con materiales de alta calidad para ofrecer una comodidad y un estilo inigualables.",
+            "tallas":[{
+                "talla": "US 10.5",
+                "stock": 1
+            }
+                
+            ],
+            "foto": "/src/img-json/7.jpg",
+            "precio": 219990
+        },
+        {
+            "id": "QWERTY008",
+            "nombre": "Air Jordan 9 Retro",
+            "descripcion": "Las Air Jordan 9 Retro son unas zapatillas con un diseño exclusivo y están confeccionadas con materiales de alta calidad para ofrecer una comodidad y un estilo duraderos.",
+            "tallas":[{
+                "talla": "US 11.5",
+                "stock": 1
+            }
+                
+            ],
+            "foto": "/src/img-json/8.jpg",
+            "precio": 189990
+        },
+        {
+            "id": "QWERTY009",
+            "nombre": "Air Jordan 12 Retro",
+            "descripcion": "Las Air Jordan 12 Retro cuentan con un diseño icónico y están confeccionadas con materiales de alta calidad para ofrecer una comodidad y un estilo inigualables.",
+            "tallas":[{
+                "talla": "US 8",
+                "stock": 1
+            }
+                
+            ],
+            "foto": "/src/img-json/9.jpg",
+            "precio": 209990
+        },
+        {
+            "id": "QWERTY0010",
+            "nombre": "Air Jordan 3 Retro",
+            "descripcion": "Las Air Jordan 3 Retro presentan un diseño exclusivo y están confeccionadas con materiales de alta calidad para ofrecer una comodidad y un estilo inigualables.",
+            "tallas":[{
+                "talla": "US 9",
+                "stock": 1
+            }
+                
+            ],
+            "foto": "/src/img-json/10.jpg",
+            "precio": 189990
+        },
+        {
+            "id": "QWERTY0011",
+            "nombre": "Air Jordan 7 Retro",
+            "descripcion": "Las Air Jordan 7 Retro son unas zapatillas con un diseño exclusivo y están confeccionadas con materiales de alta calidad para ofrecer una comodidad y un estilo duraderos.",
+            "tallas":[{
+                "talla": "US 9.5",
+                "stock": 1
+            }
+                
+            ],
+            "foto": "/src/img-json/11.jpg",
+            "precio": 219990
+        },
+        {
+            "id": "QWERTY0012",
+            "nombre": "Polera Nike Dri-FIT",
+            "descripcion": "La polera Nike Dri-FIT está confeccionada con un tejido que absorbe el sudor para ofrecer una comodidad y una transpirabilidad inigualables.",
+            "tallas": [
+                {
+                    "talla": "S",
+                    "stock": 4
+                }
+            ],
+            "foto": "/src/img-json/12.jpg",
+            "precio": 29990
+        },
+        {
+            "id": "QWERTY0013",
+            "nombre": "Polera Nike Sportswear",
+            "descripcion": "La polera Nike Sportswear presenta un diseño clásico y está confeccionada con materiales de alta calidad para ofrecer una comodidad y un estilo inigualables.",
+            "tallas": [
+                {
+                    "talla": "M",
+                    "stock": 4
+                }
+            ],
+            "foto": "/src/img-json/13.jpg",
+            "precio": 24990
+        },
+        {
+            "id": "QWERTY0014",
+            "nombre": "Polera Nike Pro",
+            "descripcion": "La polera Nike Pro está diseñada para ofrecer una comodidad y una transpirabilidad inigualables durante tus entrenamientos más intensos.",
+            "tallas": [
+                {
+                    "talla": "XL",
+                    "stock": 4
+                }
+            ],
+            "foto": "/src/img-json/14.jpg",
+            "precio": 34990
+        },
+        {
+            "id": "QWERTY0015",
+            "nombre": "Air Jordan 1 Low",
+            "descripcion": "Las Air Jordan 1 Low son unas zapatillas con un diseño clásico y están confeccionadas con materiales de alta calidad para ofrecer una comodidad y un estilo duraderos.",
+            "tallas":[{
+                "talla": "US 11",
+                "stock": 1
+            }
+                
+            ],
+            "foto": "/src/img-json/15.jpg",
+            "precio": 90000
+        },
+        {
+            "id": "QWERTY0016",
+            "nombre": "Air Jordan 4 Retro",
+            "descripcion": "Las Air Jordan 4 Retro presentan un diseño icónico y están confeccionadas con materiales de alta calidad para ofrecer una comodidad y un estilo inigualables.",
+            "tallas":[{
+                "talla": "US 7.5",
+                "stock": 1
+            }
+                
+            ],
+            "foto": "/src/img-json/16.jpg",
+            "precio": 199990
+        },
+        {
+            "id": "QWERTY0017",
+            "nombre": "Polera Nike Sportswear Club",
+            "descripcion": "La polera Nike Sportswear Club cuenta con un diseño clásico y está confeccionada con materiales de alta calidad para ofrecer una comodidad y un estilo inigualables.",
+            "tallas": [
+                {
+                    "talla": "L",
+                    "stock": 4
+                }
+            ],
+            "foto": "/src/img-json/17.jpg",
+            "precio": 19990
+        },
+        {
+            "id": "QWERTY0018",
+            "nombre": "Air Jordan 13 Retro",
+            "descripcion": "Las Air Jordan 13 Retro son unas zapatillas con un diseño exclusivo y están confeccionadas con materiales de alta calidad para ofrecer una comodidad y un estilo duraderos.",
+            "tallas":[{
+                "talla": "US 9.5",
+                "stock": 1
+            }
+                
+            ],
+            "foto": "/src/img-json/18.jpg",
+            "precio": 209990
+        },
+        {
+            "id": "QWERTY0019",
+            "nombre": "Air Jordan 5 Retro",
+            "descripcion": "Las Air Jordan 5 Retro presentan un diseño exclusivo y están confeccionadas con materiales de alta calidad para ofrecer una comodidad y un estilo inigualables.",
+            "tallas":[{
+                "talla": "US 7.5",
+                "stock": 1
+            }
+                
+            ],
+            "foto": "/src/img-json/19.jpg",
+            "precio": 189990
+        },
+        {
+            "id": "QWERTY0020",
+            "nombre": "Polera Nike Dri-FIT Academy",
+            "descripcion": "La polera Nike Dri-FIT Academy está diseñada para ofrecer una comodidad y una transpirabilidad inigualables durante tus entrenamientos y partidos de fútbol.",
+            "tallas": [
+                {
+                    "talla": "S",
+                    "stock": 4
+                }
+            ],
+            "foto": "/src/img-json/20.jpg",
+            "precio": 39990
+        }
+    ]
+}
