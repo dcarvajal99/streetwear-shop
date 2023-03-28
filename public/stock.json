@@ -1,0 +1,664 @@
+{
+    "stock": [
+        {
+            "id": "QWERTY001",
+            "tallas": [
+                {
+                    "talla": "US 5.5",
+                    "stock": 4
+                },
+                {
+                    "talla": "US 6",
+                    "stock": 10
+                },
+                {
+                    "talla": "US 6.5",
+                    "stock": 7
+                },
+                {
+                    "talla": "US 7",
+                    "stock": 3
+                },
+                {
+                    "talla": "US 7.5",
+                    "stock": 0
+                },
+                {
+                    "talla": "US 8",
+                    "stock": 1
+                },
+                {
+                    "talla": "US 8.5",
+                    "stock": 8
+                },
+                {
+                    "talla": "US 9",
+                    "stock": 6
+                }
+            ]
+        },
+        {
+            "id": "QWERTY002",
+            "tallas": [
+                {
+                    "talla": "US 5.5",
+                    "stock": 4
+                },
+                {
+                    "talla": "US 6",
+                    "stock": 10
+                },
+                {
+                    "talla": "US 6.5",
+                    "stock": 7
+                },
+                {
+                    "talla": "US 7",
+                    "stock": 3
+                },
+                {
+                    "talla": "US 7.5",
+                    "stock": 0
+                },
+                {
+                    "talla": "US 8",
+                    "stock": 1
+                },
+                {
+                    "talla": "US 8.5",
+                    "stock": 8
+                },
+                {
+                    "talla": "US 9",
+                    "stock": 6
+                }
+            ]
+        },
+        {
+            "id": "QWERTY003",
+            "tallas": [
+                {
+                    "talla": "US 5.5",
+                    "stock": 4
+                },
+                {
+                    "talla": "US 6",
+                    "stock": 10
+                },
+                {
+                    "talla": "US 6.5",
+                    "stock": 7
+                },
+                {
+                    "talla": "US 7",
+                    "stock": 3
+                },
+                {
+                    "talla": "US 7.5",
+                    "stock": 0
+                },
+                {
+                    "talla": "US 8",
+                    "stock": 1
+                },
+                {
+                    "talla": "US 8.5",
+                    "stock": 8
+                },
+                {
+                    "talla": "US 9",
+                    "stock": 6
+                }
+            ]
+        },
+        {
+            "id": "QWERTY004",
+            "tallas": [
+                {
+                    "talla": "US 5.5",
+                    "stock": 4
+                },
+                {
+                    "talla": "US 6",
+                    "stock": 10
+                },
+                {
+                    "talla": "US 6.5",
+                    "stock": 7
+                },
+                {
+                    "talla": "US 7",
+                    "stock": 3
+                },
+                {
+                    "talla": "US 7.5",
+                    "stock": 0
+                },
+                {
+                    "talla": "US 8",
+                    "stock": 1
+                },
+                {
+                    "talla": "US 8.5",
+                    "stock": 8
+                },
+                {
+                    "talla": "US 9",
+                    "stock": 6
+                }
+            ]
+        },
+        {
+            "id": "QWERTY005",
+            "tallas": [
+                {
+                    "talla": "US 5.5",
+                    "stock": 4
+                },
+                {
+                    "talla": "US 6",
+                    "stock": 10
+                },
+                {
+                    "talla": "US 6.5",
+                    "stock": 7
+                },
+                {
+                    "talla": "US 7",
+                    "stock": 3
+                },
+                {
+                    "talla": "US 7.5",
+                    "stock": 0
+                },
+                {
+                    "talla": "US 8",
+                    "stock": 1
+                },
+                {
+                    "talla": "US 8.5",
+                    "stock": 8
+                },
+                {
+                    "talla": "US 9",
+                    "stock": 6
+                }
+            ]
+        },
+        {
+            "id": "QWERTY006",
+            "tallas": [
+                {
+                    "talla": "US 5.5",
+                    "stock": 4
+                },
+                {
+                    "talla": "US 6",
+                    "stock": 10
+                },
+                {
+                    "talla": "US 6.5",
+                    "stock": 7
+                },
+                {
+                    "talla": "US 7",
+                    "stock": 3
+                },
+                {
+                    "talla": "US 7.5",
+                    "stock": 0
+                },
+                {
+                    "talla": "US 8",
+                    "stock": 1
+                },
+                {
+                    "talla": "US 8.5",
+                    "stock": 8
+                },
+                {
+                    "talla": "US 9",
+                    "stock": 6
+                }
+            ]
+        },
+        {
+            "id": "QWERTY007",
+            "tallas": [
+                {
+                    "talla": "US 5.5",
+                    "stock": 4
+                },
+                {
+                    "talla": "US 6",
+                    "stock": 10
+                },
+                {
+                    "talla": "US 6.5",
+                    "stock": 7
+                },
+                {
+                    "talla": "US 7",
+                    "stock": 3
+                },
+                {
+                    "talla": "US 7.5",
+                    "stock": 0
+                },
+                {
+                    "talla": "US 8",
+                    "stock": 1
+                },
+                {
+                    "talla": "US 8.5",
+                    "stock": 8
+                },
+                {
+                    "talla": "US 9",
+                    "stock": 6
+                }
+            ]
+        },
+        {
+            "id": "QWERTY008",
+            "tallas": [
+                {
+                    "talla": "US 5.5",
+                    "stock": 4
+                },
+                {
+                    "talla": "US 6",
+                    "stock": 10
+                },
+                {
+                    "talla": "US 6.5",
+                    "stock": 7
+                },
+                {
+                    "talla": "US 7",
+                    "stock": 3
+                },
+                {
+                    "talla": "US 7.5",
+                    "stock": 0
+                },
+                {
+                    "talla": "US 8",
+                    "stock": 1
+                },
+                {
+                    "talla": "US 8.5",
+                    "stock": 8
+                },
+                {
+                    "talla": "US 9",
+                    "stock": 6
+                }
+            ]
+        },
+        {
+            "id": "QWERTY009",
+            "tallas": [
+                {
+                    "talla": "US 5.5",
+                    "stock": 4
+                },
+                {
+                    "talla": "US 6",
+                    "stock": 10
+                },
+                {
+                    "talla": "US 6.5",
+                    "stock": 7
+                },
+                {
+                    "talla": "US 7",
+                    "stock": 3
+                },
+                {
+                    "talla": "US 7.5",
+                    "stock": 0
+                },
+                {
+                    "talla": "US 8",
+                    "stock": 1
+                },
+                {
+                    "talla": "US 8.5",
+                    "stock": 8
+                },
+                {
+                    "talla": "US 9",
+                    "stock": 6
+                }
+            ]
+        },
+        {
+            "id": "QWERTY0010",
+            "tallas": [
+                {
+                    "talla": "US 5.5",
+                    "stock": 4
+                },
+                {
+                    "talla": "US 6",
+                    "stock": 10
+                },
+                {
+                    "talla": "US 6.5",
+                    "stock": 7
+                },
+                {
+                    "talla": "US 7",
+                    "stock": 3
+                },
+                {
+                    "talla": "US 7.5",
+                    "stock": 0
+                },
+                {
+                    "talla": "US 8",
+                    "stock": 1
+                },
+                {
+                    "talla": "US 8.5",
+                    "stock": 8
+                },
+                {
+                    "talla": "US 9",
+                    "stock": 6
+                }
+            ]
+        },
+        {
+            "id": "QWERTY0011",
+            "tallas": [
+                {
+                    "talla": "US 5.5",
+                    "stock": 4
+                },
+                {
+                    "talla": "US 6",
+                    "stock": 10
+                },
+                {
+                    "talla": "US 6.5",
+                    "stock": 7
+                },
+                {
+                    "talla": "US 7",
+                    "stock": 3
+                },
+                {
+                    "talla": "US 7.5",
+                    "stock": 0
+                },
+                {
+                    "talla": "US 8",
+                    "stock": 1
+                },
+                {
+                    "talla": "US 8.5",
+                    "stock": 8
+                },
+                {
+                    "talla": "US 9",
+                    "stock": 6
+                }
+            ]
+        },
+        {
+            "id": "QWERTY0012",
+            "tallas": [
+                {
+                    "talla": "S",
+                    "stock": 4
+                },
+                {
+                    "talla": "M",
+                    "stock": 10
+                },
+                {
+                    "talla": "L",
+                    "stock": 7
+                },
+                {
+                    "talla": "XL",
+                    "stock": 3
+                }
+            ]
+        },
+        {
+            "id": "QWERTY0013",
+            "tallas": [
+                {
+                    "talla": "S",
+                    "stock": 4
+                },
+                {
+                    "talla": "M",
+                    "stock": 10
+                },
+                {
+                    "talla": "L",
+                    "stock": 7
+                },
+                {
+                    "talla": "XL",
+                    "stock": 3
+                }
+            ]
+        },
+        {
+            "id": "QWERTY0014",
+            "tallas": [
+                {
+                    "talla": "S",
+                    "stock": 4
+                },
+                {
+                    "talla": "M",
+                    "stock": 10
+                },
+                {
+                    "talla": "L",
+                    "stock": 7
+                },
+                {
+                    "talla": "XL",
+                    "stock": 3
+                }
+            ]
+        },
+        {
+            "id": "QWERTY0015",
+            "tallas": [
+                {
+                    "talla": "US 5.5",
+                    "stock": 4
+                },
+                {
+                    "talla": "US 6",
+                    "stock": 10
+                },
+                {
+                    "talla": "US 6.5",
+                    "stock": 7
+                },
+                {
+                    "talla": "US 7",
+                    "stock": 3
+                },
+                {
+                    "talla": "US 7.5",
+                    "stock": 0
+                },
+                {
+                    "talla": "US 8",
+                    "stock": 1
+                },
+                {
+                    "talla": "US 8.5",
+                    "stock": 8
+                },
+                {
+                    "talla": "US 9",
+                    "stock": 6
+                }
+            ]
+        },
+        {
+            "id": "QWERTY0016",
+            "tallas": [
+                {
+                    "talla": "US 5.5",
+                    "stock": 4
+                },
+                {
+                    "talla": "US 6",
+                    "stock": 10
+                },
+                {
+                    "talla": "US 6.5",
+                    "stock": 7
+                },
+                {
+                    "talla": "US 7",
+                    "stock": 3
+                },
+                {
+                    "talla": "US 7.5",
+                    "stock": 0
+                },
+                {
+                    "talla": "US 8",
+                    "stock": 1
+                },
+                {
+                    "talla": "US 8.5",
+                    "stock": 8
+                },
+                {
+                    "talla": "US 9",
+                    "stock": 6
+                }
+            ]
+        },
+        {
+            "id": "QWERTY0017",
+            "tallas": [
+                {
+                    "talla": "S",
+                    "stock": 4
+                },
+                {
+                    "talla": "M",
+                    "stock": 10
+                },
+                {
+                    "talla": "L",
+                    "stock": 7
+                },
+                {
+                    "talla": "XL",
+                    "stock": 3
+                }
+            ]
+        },
+        {
+            "id": "QWERTY0018",
+            "tallas": [
+                {
+                    "talla": "US 5.5",
+                    "stock": 4
+                },
+                {
+                    "talla": "US 6",
+                    "stock": 10
+                },
+                {
+                    "talla": "US 6.5",
+                    "stock": 7
+                },
+                {
+                    "talla": "US 7",
+                    "stock": 3
+                },
+                {
+                    "talla": "US 7.5",
+                    "stock": 0
+                },
+                {
+                    "talla": "US 8",
+                    "stock": 1
+                },
+                {
+                    "talla": "US 8.5",
+                    "stock": 8
+                },
+                {
+                    "talla": "US 9",
+                    "stock": 6
+                }
+            ]
+        },
+        {
+            "id": "QWERTY0019",
+            "tallas": [
+                {
+                    "talla": "US 5.5",
+                    "stock": 4
+                },
+                {
+                    "talla": "US 6",
+                    "stock": 10
+                },
+                {
+                    "talla": "US 6.5",
+                    "stock": 7
+                },
+                {
+                    "talla": "US 7",
+                    "stock": 3
+                },
+                {
+                    "talla": "US 7.5",
+                    "stock": 0
+                },
+                {
+                    "talla": "US 8",
+                    "stock": 1
+                },
+                {
+                    "talla": "US 8.5",
+                    "stock": 8
+                },
+                {
+                    "talla": "US 9",
+                    "stock": 6
+                }
+            ]
+        },
+        {
+            "id": "QWERTY0020",
+            "tallas": [
+                {
+                    "talla": "S",
+                    "stock": 4
+                },
+                {
+                    "talla": "M",
+                    "stock": 10
+                },
+                {
+                    "talla": "L",
+                    "stock": 7
+                },
+                {
+                    "talla": "XL",
+                    "stock": 3
+                }
+            ],
+        }
+    ]
+}

@@ -1,9 +1,42 @@
-.contenedor {
+/* .contenedor {
     background-image: url('/public/src/img/bg.jpg');
     background-size: cover;
     background-attachment: fixed;
     opacity: 0.8;
-  }
+  } */
 .tittlespace{
     margin-top: 9rem;
 } 
+.custom-btn {
+  padding: 5px 10px; /* Ajusta el valor de padding según lo necesites */
+  font-size: 1rem; /* Ajusta el valor de font-size según lo necesites */
+}
+.custom-carousel {
+  max-height: 500px; /* Establecer la altura máxima */
+  display: flex;
+  align-items: center; /* Centrar verticalmente la imagen */
+}
+.carousel-image-container {
+  position: relative;
+}
+
+.carousel-image {
+  filter: blur(3px);
+}
+
+.carousel-caption {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.text-shadow h1 {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.text-shadow p {
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+.carousel-image2 {
+  filter: brightness(50%) opacity(0.8);
+}

@@ -3,9 +3,12 @@ import { Navbar, Nav, Container } from 'react-bootstrap';
 import { NavLink } from "react-router-dom";
 import {GiShoppingCart} from 'react-icons/gi';
 import './Navbar.css'
+import { useContext } from 'react';
+import Context from '../../context/ContextProvider';
 
 function NavigationBar() {
   const setActiveClass = ({ isActive }) => (isActive ? "text-warning ms-3 text-decoration-none pokeball" : "text-white ms-3 text-decoration-none");
+  const {totalCarrito,countTotalCarrito,clp} = useContext(Context)
   return (
     
     <Navbar bg="dark" arial="wa" expand="lg">
@@ -22,8 +25,8 @@ function NavigationBar() {
           </NavLink>
       </Navbar.Brand>
         <Nav className="ms-auto">
-          <NavLink className={setActiveClass} to="/cart">
-          <h3><GiShoppingCart/> |</h3>
+          <NavLink className={setActiveClass} to="/cart" >
+          <h3><GiShoppingCart/>{(countTotalCarrito>0) ? ` ${countTotalCarrito}` : ""} {(totalCarrito>0) ? `| ${clp(totalCarrito)}` : ""}  </h3>
           </NavLink>
         </Nav>
       </Container>
