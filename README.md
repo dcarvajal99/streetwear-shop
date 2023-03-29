@@ -6,7 +6,7 @@ Para lograr este objetivo, he utilizado componentes de React como useState, useE
 Además, he utilizado el framework de React para desarrollar una interfaz de usuario atractiva y altamente funcional. Esto significa que he creado un diseño visualmente atractivo y fácil de usar, que se adapta a diferentes dispositivos y tamaños de pantalla.
 
 En "Streetwear", he asegurado que la página web sea segura y confiable para los usuarios, para que puedan comprar con confianza. Espero que disfrutes explorando la página web y encuentres los productos perfectos para ti.
-![image](https://user-images.githubusercontent.com/113071563/228395416-19a7899f-4696-4838-9e4e-7dcb6eb68c19.png)
+![image](https://user-images.githubusercontent.com/113071563/228397181-38807e4d-adfa-4cc6-808d-1fe45a3728cb.png)
 
 ![image](https://user-images.githubusercontent.com/113071563/228395428-5b35d2cf-9e99-4cdd-871c-397dd381ba73.png)
 
