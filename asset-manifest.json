@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/streetwear-shop/static/css/main.45039345.css",
-    "main.js": "/streetwear-shop/static/js/main.a5af75c7.js",
+    "main.js": "/streetwear-shop/static/js/main.645fff3f.js",
     "static/media/fa-solid-900.ttf": "/streetwear-shop/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/fa-brands-400.ttf": "/streetwear-shop/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
     "static/media/fa-solid-900.woff2": "/streetwear-shop/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
@@ -12,10 +12,10 @@
     "static/media/fa-v4compatibility.woff2": "/streetwear-shop/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/streetwear-shop/index.html",
     "main.45039345.css.map": "/streetwear-shop/static/css/main.45039345.css.map",
-    "main.a5af75c7.js.map": "/streetwear-shop/static/js/main.a5af75c7.js.map"
+    "main.645fff3f.js.map": "/streetwear-shop/static/js/main.645fff3f.js.map"
   },
   "entrypoints": [
     "static/css/main.45039345.css",
-    "static/js/main.a5af75c7.js"
+    "static/js/main.645fff3f.js"
   ]
 }
