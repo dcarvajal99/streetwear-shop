@@ -1,71 +1,14 @@
-# Getting Started with Create React App
+# Streetwear-shop
+En esta tarea, he creado una página web de comercio electrónico llamada "Streetwear" utilizando la biblioteca de JavaScript de React. El objetivo de este proyecto ha sido construir una plataforma en línea sencilla que permita a los usuarios explorar y comprar productos de moda urbana y accesorios de última tendencia.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Para lograr este objetivo, he utilizado componentes de React como useState, useEffect, router, navlink, useNavigate, useParams y context. Estos componentes han permitido manejar los cambios en el estado de la aplicación, manejar la navegación entre páginas y pasar datos y parámetros entre componentes de manera eficiente.
 
-## Available Scripts
+Además, he utilizado el framework de React para desarrollar una interfaz de usuario atractiva y altamente funcional. Esto significa que he creado un diseño visualmente atractivo y fácil de usar, que se adapta a diferentes dispositivos y tamaños de pantalla.
 
-In the project directory, you can run:
+En "Streetwear", he asegurado que la página web sea segura y confiable para los usuarios, para que puedan comprar con confianza. Espero que disfrutes explorando la página web y encuentres los productos perfectos para ti.
+![image](https://user-images.githubusercontent.com/113071563/228395416-19a7899f-4696-4838-9e4e-7dcb6eb68c19.png)
 
-### `npm start`
+![image](https://user-images.githubusercontent.com/113071563/228395428-5b35d2cf-9e99-4cdd-871c-397dd381ba73.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# streetwear-shop
+![image](https://user-images.githubusercontent.com/113071563/228395469-9d1e5aad-f028-415a-94c7-513ee262d44f.png)
+![image](https://user-images.githubusercontent.com/113071563/228395502-e2db51b3-144a-4190-b338-96e3b7004c9d.png)
