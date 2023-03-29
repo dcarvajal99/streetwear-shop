@@ -17,7 +17,7 @@ const DetalleProducto = () => {
                 
                 <Row >
                     <Col style={{}}>
-                    <img src={producto.foto} 
+                    <img src={process.env.PUBLIC_URL + producto.foto} 
                                 className="card-img-top" 
                                 alt={producto.nombre} 
                                 />

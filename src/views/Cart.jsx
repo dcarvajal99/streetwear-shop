@@ -13,7 +13,7 @@ const Cart = () => {
         style={{ backgroundColor: 'rgba(255, 255, 255, 0.75)' }}>
             <h1 className="pt-4 text-center">Cart</h1>
             <p className=" text-center">Llevas <strong>{countTotalCarrito}</strong> producto{(countTotalCarrito===1) ? "" :"s"} en tu carrito</p>
-            <table className="table">
+            <table className="table table-responsive">
                     <thead>
                         <tr>
                             <th scope="col">ID</th>

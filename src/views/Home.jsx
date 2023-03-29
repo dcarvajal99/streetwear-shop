@@ -15,7 +15,6 @@ const Home = () => {
             <Banner/>
             <h1 className="py-4 text-center">hola</h1>
             <CardsProducts/>
-            {/* <ModalApp/> */}
             <CarouselFade/>
         </Container>
         </>
