@@ -22,7 +22,7 @@ const CardsProducts = () => {
                 {productos.map((product) => (
                     <div className=" col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-4" key={product.id}>
                         <div className="card h-100">
-                            <img src={product.foto}
+                            <img src={process.env.PUBLIC_URL + product.foto}
                                 className="card-img-top"
                                 alt={product.nombre}
                                 onClick={() => irAVerMas(product.id)}

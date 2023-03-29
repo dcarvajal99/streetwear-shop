@@ -9,7 +9,7 @@ function CarouselFade() {
     <Carousel fade className="custom-carousel" >
     {productos.map((product) => (
       <Carousel.Item key={product.id} >
-        <img src={product.foto} 
+        <img src={process.env.PUBLIC_URL + product.foto} 
         className="d-block w-100 carousel-image2"
         style={{ maxHeight: "500px", objectFit: "cover", top: "70px"  }}
         alt={product.nombre} 
