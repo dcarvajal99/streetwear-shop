@@ -13,7 +13,7 @@ const Home = () => {
             className=" vw-100 mt-4 border-bottom rounded"
             style={{ backgroundColor: 'rgba(255, 255, 255, 0.75)' }}>
             <Banner/>
-            <h1 className="py-4 text-center">hola</h1>
+            <hr></hr>
             <CardsProducts/>
             <CarouselFade/>
         </Container>
